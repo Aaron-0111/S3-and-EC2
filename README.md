@@ -1,6 +1,9 @@
 # CLOUD-STORAGE-CREATION-S3-AND-LAUNCHING-AN-EC2-INSTANCE-IN-AWS
+~~~
+Name :AARON RAJESH R
 
-## EC2 Instance and S3 Buckets
+Reg no: 212223100001
+~~~
 
 ## Aim:
 To create an EC2 instance and an S3 bucket in AWS.
